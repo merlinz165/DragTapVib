@@ -1,0 +1,13 @@
+strongly disagree,disagree,neutral,agree,strongly agree,subtable,category,question
+0,1,0,4,7,pattern,D,I can clearly feel the stimulus.
+0,0,1,2,9,pattern,T,I can clearly feel the stimulus.
+0,0,1,1,10,pattern,V,I can clearly feel the stimulus.
+8,3,1,0,0,pattern,D,I can not feel the moment the stimulus is activated.
+8,3,0,1,0,pattern,T,I can not feel the moment the stimulus is activated.
+10,1,1,0,0,pattern,V,I can not feel the moment the stimulus is activated.
+0,2,1,4,5,pattern,D,The stimulus is comfortable and not intrusive.
+0,1,6,5,0,pattern,T,The stimulus is comfortable and not intrusive.
+0,0,3,3,6,pattern,V,The stimulus is comfortable and not intrusive.
+7,2,2,1,0,pattern,D,The stimulus is causing discomfort or pain.
+7,2,2,1,0,pattern,T,The stimulus is causing discomfort or pain.
+7,4,1,0,0,pattern,V,The stimulus is causing discomfort or pain.
