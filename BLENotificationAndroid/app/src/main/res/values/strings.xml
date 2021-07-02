@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BLENotification</string>
+    <string name="service_label">NotificationListener</string>
+
+    <string name="notification_intent_action">com.example.blenotification.RECEIVER</string>
+    <string name="notification_listener_service">"Notification Listener Service</string>
+    <string name="notification_listener_service_explanation">"Please enable the Notification Listener Service."</string>
+    <string name="yes">Enable</string>
+    <string name="no">NO</string>
+
+    <string name="ble_not_supported">BLE is not supported</string>
+
+</resources>
